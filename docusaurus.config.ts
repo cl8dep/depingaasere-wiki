@@ -66,6 +66,16 @@ const config: Config = {
     ]
   ],
 
+  headTags: [
+    {
+      tagName: "meta",
+      attributes: {
+        name: "google-adsense-account",
+        content: "ca-pub-5927916376173700",
+      }
+    },
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
