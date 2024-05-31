@@ -22,7 +22,10 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+      
       - name: Build website
+        env:
+          TRACKING_ID: ${{ secrets.TRACKING_ID }}
         run: yarn build
 
       - name: Upload Build Artifact
