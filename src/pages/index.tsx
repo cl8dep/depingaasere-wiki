@@ -15,12 +15,15 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          Este sitio esta pensado para que no sigas preguntando por los foros información que vos podés encontrar.
+          Aprecialo, que mucha gente gasta tiempo manteniendo la información que acá se muestra.
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Ir a las guías
           </Link>
         </div>
       </div>
