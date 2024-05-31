@@ -23,13 +23,13 @@ La reunificación familiar aplica para:
 
 ## Procedimiento
 
-Para iniciar el trámite de reunificación familiar debe enviar a reunificacion@mrree.gub.uy la totalidad de la documentación que se detalla: escaneada, en formato PDF o JPG y en un único correo electrónico con asunto REUNIFICACIÓN (su nombre y su nacionalidad)
+Para iniciar el trámite de reunificación familiar debe enviar a reunificacion@mrree.gub.uy la totalidad de la documentación que se detalla por cada persona a reunificar: escaneada, en formato PDF o JPG y en un único correo electrónico con asunto REUNIFICACIÓN (nombres y nacionalidad)
 
 Formulario de solicitud de visa de reunificación familiar (uno por cada una de las personas a reunificar), el cual se puede descargar [aquí](https://docs.google.com/document/d/1J-cdq9eDMeZejtyAcb6AEyOt2cSTlc3J/edit?rtpof=true&sd=true).
 - Copia de su cédula de identidad (de ambos lados y en una sola hoja).
 - Copia del pasaporte de la persona a reunificar (página biográfica).
-- Copia del acta de estado civil que acredita el vínculo familiar en formato Uruguayo, o en su defecto Acta de nacimiento,  legalizada/apostillada según corresponda.
-- Historia laboral de B.P.S. actualizada. Deberá percibir un ingreso mensual igual o mayor al salario mínimo nacional (a partir del primero de enero de 2024 es de 22268 UYU) en los últimos 3 meses al momento de presentada la solicitud. 
+- Copia del acta de estado civil que acredita el vínculo familiar en Formato Uruguayo, o en su defecto acta de estado civil legalizada/apostillada según corresponda.
+- Historia laboral de B.P.S. actualizada. Deberá percibir un ingreso mensual igual o mayor al salario mínimo nacional (a partir del primero de enero de 2024 es de 22 268 UYU) en los últimos 3 meses al momento de presentada la solicitud. 
 - SOLAMENTE en caso de ser trabajador independiente, remitir también Certificado Común de B.P.S. y certificado contable/notarial de ingresos en que el profesional certifique los ingresos del último trimestre.
 - Copia de constancia de domicilio (o recibo de luz, agua, u otro servicio que esté a su nombre)
 - En caso de menores de edad: copia del documento de identidad del adulto responsable de gestionar el trámite en el Consulado. En caso que ambos padres se encuentren en Uruguay debe informarlo en el correo electrónico con que envía la documentación.
