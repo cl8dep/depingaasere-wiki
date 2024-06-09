@@ -16,7 +16,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">
-          Este sitio esta pensado para que no sigas preguntando por los foros información que vos podés encontrar.
+          Este sitio esta pensado para que no sigas preguntando por los foros información que puedas encontrar.
           Aprecialo, que mucha gente gasta tiempo manteniendo la información que acá se muestra.
         </p>
         <div className={styles.buttons}>
