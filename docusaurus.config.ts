@@ -4,6 +4,18 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+const plugins = [];
+
+if (process.env.NODE_ENV !== "development") {
+  plugins.push([
+    '@docusaurus/plugin-google-gtag',
+    {
+      trackingID: process.env.TRACKING_ID,
+      anonymizeIP: true,
+    },
+  ])
+}
+
 const config: Config = {
   title: 'De pinga asere',
   tagline: 'De pinga asere',
@@ -32,13 +44,7 @@ const config: Config = {
   },
 
   plugins: [
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: process.env.TRACKING_ID,
-        anonymizeIP: true,
-      },
-    ],
+    ...plugins
   ],
 
   presets: [
