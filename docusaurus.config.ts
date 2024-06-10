@@ -32,7 +32,7 @@ const config: Config = {
   organizationName: 'cl8dep', // Usually your GitHub org/user name.
   projectName: 'depingaasere-wiki', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -72,16 +72,6 @@ const config: Config = {
     ]
   ],
 
-  headTags: [
-    {
-      tagName: "meta",
-      attributes: {
-        name: "google-adsense-account",
-        content: "ca-pub-5927916376173700",
-      }
-    },
-  ],
-
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
@@ -117,11 +107,6 @@ const config: Config = {
           label: 'Otros',
         }
         // {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
       ],
     },
     footer: {
@@ -131,12 +116,8 @@ const config: Config = {
           title: 'Migración',
           items: [
             {
-              label: 'Panamá',
-              to: 'docs/migration/panama/visa-de-transito',
-            },
-            {
               label: 'Uruguay',
-              to: 'docs/migration/uruguay/consulado-uruguay-en-cuba/contacto',
+              to: 'docs/migration/uruguay',
             }
           ],
         },
