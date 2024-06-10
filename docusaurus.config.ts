@@ -94,10 +94,28 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'migrateSidebar',
           position: 'left',
-          label: 'Guías',
+          label: 'Migración',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'businessSidebar',
+          position: 'left',
+          label: 'Negocios',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'ocioSidebar',
+          position: 'left',
+          label: 'Ocio',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'otherSidebar',
+          position: 'left',
+          label: 'Otros',
+        }
         // {to: '/blog', label: 'Blog', position: 'left'},
         // {
         //   href: 'https://github.com/facebook/docusaurus',
@@ -110,12 +128,29 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Migración',
           items: [
             {
-              label: 'Guías',
-              to: '/docs/intro',
+              label: 'Panamá',
+              to: 'docs/migration/panama/visa-de-transito',
             },
+            {
+              label: 'Uruguay',
+              to: 'docs/migration/uruguay/consulado-uruguay-en-cuba/contacto',
+            }
+          ],
+        },
+        {
+          title: 'Negocios',
+          items: [
+            {
+              label: 'Bitcoin',
+              to: 'docs/business/bitcoin/intro',
+            },
+            {
+              label: 'Divisas',
+              to: 'docs/business/monedas/intro',
+            }
           ],
         },
         // {
@@ -143,7 +178,7 @@ const config: Config = {
             //   to: '/blog',
             // },
             {
-              label: 'GitHub',
+              label: 'Código fuente',
               href: 'https://github.com/cl8dep/depingaasere-wiki',
             },
           ],
