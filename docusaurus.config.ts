@@ -32,7 +32,7 @@ const config: Config = {
   organizationName: 'cl8dep', // Usually your GitHub org/user name.
   projectName: 'depingaasere-wiki', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -117,7 +117,7 @@ const config: Config = {
           items: [
             {
               label: 'Uruguay',
-              to: 'docs/migration/uruguay',
+              to: '/docs/migration/uruguay/intro',
             }
           ],
         },
@@ -130,7 +130,7 @@ const config: Config = {
             },
             {
               label: 'Divisas',
-              to: 'docs/business/monedas/intro',
+              to: 'docs/business/currencies/intro',
             }
           ],
         },
