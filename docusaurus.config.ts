@@ -149,7 +149,7 @@ const config: Config = {
             },
             {
               label: 'Divisas',
-              to: 'docs/business/monedas/intro',
+              to: 'docs/business/currencies/intro',
             }
           ],
         },

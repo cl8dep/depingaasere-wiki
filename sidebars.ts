@@ -44,7 +44,7 @@ const sidebars: SidebarsConfig = {
       label: 'Negocios',
       items: ['business/intro',
         {type: 'category',label: 'Bitcoin',items: ['business/bitcoin/intro']},
-        {type: 'category',label: 'Monedas',items: ['business/currencies/intro']}
+        {type: 'category',label: 'Divisas',items: ['business/currencies/intro']}
       ]
     }
   ],
