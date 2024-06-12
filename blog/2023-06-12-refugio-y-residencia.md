@@ -28,7 +28,13 @@ El pasado 15 de mayo, mediante el Decreto 138/024 se creó el Programa de “Res
 
 Esta nueva normativa relativa a la Residencia por Arraigo nace como consecuencia de la necesidad de regular la condición jurídica en que se encuentran algunas personas que han ingresado a nuestro país por un punto de control migratorio habilitado solicitando refugio, y que residen en el territorio nacional con ánimo de permanecer en él y que tienen (a la fecha de promulgación del presente decreto en cuestión) arraigo en nuestro país y no pueden solicitar u obtener su residencia legal de acuerdo a la normativa migratoria vigente. La Residencia por Arraigo resulta entonces una herramienta hábil para el tratamiento de los movimientos de las personas refugiadas y migrantes que se encuentran en nuestro país.
 
-El Programa de Residencia por Arraigo es aplicable a todas aquellas personas que cumplen las siguientes condiciones: (a) ingresaron al país por un punto de control migratorio habilitado a tales efectos; (2) han solicitado refugio; (c) residen en el territorio nacional; (d) tienen ánimo de permanecer en el país; (e) tienen a la fecha de publicación del decreto, arraigo en nuestro país y (d) que no pueden solicitar u obtener su residencia legal de acuerdo a la normativa migratoria vigente.
+El Programa de Residencia por Arraigo es aplicable a todas aquellas personas que cumplen las siguientes condiciones: 
+- ingresaron al país por un punto de control migratorio habilitado a tales efectos; 
+- han solicitado refugio; 
+- residen en el territorio nacional; 
+- tienen ánimo de permanecer en el país; 
+- tienen a la fecha de publicación del decreto, arraigo en nuestro país y 
+- que no pueden solicitar u obtener su residencia legal de acuerdo a la normativa migratoria vigente.
 
 El nuevo decreto aclara explicitamente que solo será aplicable a las personas que habian solicitado refugio al momento de la publicación
 del decreto, dejando fuera de su aplicación a las personas que entrasen como solicitantes de refugio de forma posterior a su publicación.
@@ -36,3 +42,5 @@ del decreto, dejando fuera de su aplicación a las personas que entrasen como so
 ## Conclusiones
 
 En funcion a las cuestiones antes planeadas ya no es posible entrar por frontera, como Solicitante de Refugio y posteriormente cambiar de categoria a Residente Legal, de este modo el Estado Uruguayo le pone un alto a la migración masiva por frontera de esas personas que solicitaban Refugio pero en realidad no aplicaban a un Refugio.
+
+[Decreto No. 138/24](https://www.impo.com.uy/bases/decretos/138-2024/4)
