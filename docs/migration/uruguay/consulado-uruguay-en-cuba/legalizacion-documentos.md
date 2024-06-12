@@ -79,3 +79,15 @@ Aguardo sus comentarios.
 | LICENCIA DE CONDUCCIÓN                                                                                | 15 Euros  |
 | PERMISO DE MENOR                                                                                      | 15 Euros  |
 
+
+## Preguntas frecuentes
+
+### Debo aportar el monto exacto por cada documento o el monto total?
+
+A la hora de pagar usted debe aportar el monto total exacto por los documentos a legalizar. 
+
+:::info
+
+Si usted va a legalizar 3 inscripciones de nacimiento, usted debe aportar 45 EUR en total.
+
+:::
