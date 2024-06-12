@@ -105,8 +105,8 @@ const config: Config = {
           sidebarId: 'otherSidebar',
           position: 'left',
           label: 'Otros',
-        }
-        // {to: '/blog', label: 'Blog', position: 'left'},
+        },
+        { to: '/blog', label: 'Blog', position: 'left' },
       ],
     },
     footer: {
