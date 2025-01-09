@@ -35,3 +35,7 @@ La Nota deberá expresar:
 - Quien  se  hace  cargo  de  los  gastos  generadospor  el  traslado, alojamiento y manutención 
 - Donde se va a hospedar el invitado
 - Responsabilidad de quien cursa la invitación de que la persona invitada dejará el país antes de que finalice el plazo de su visa, o caso contrario  iniciará  los trámites  para  gestionar  la  residenciatemporal  o permanente (en este último caso ver en página web guía “vivir en Uruguay”). Se  debe  enviar  copia  de  los  pasaportes de  las  personas que requieren los visados y de quien realiza la invitación.
+
+## Recomendaciones
+
+Puede descargar una plantilla de carta de invitación haciendo click [aquí](/files/Plantilla%20Carta%20de%20Invitacion.docx).
